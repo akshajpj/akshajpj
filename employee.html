@@ -1,22 +1,2 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Employee Page</title>
-</head>
-<body>
-    <h1>Employee Functions</h1>
-    <button onclick="location.href='home.html'">Home</button>
-    <div class="function-group">
-        <h2>Group 1</h2>
-        <a href="function1.html"><img src="function1.png" alt="Function 1" /></a>
-        <a href="function3.html"><img src="function3.png" alt="Function 3" /></a>
-    </div>
-    <div class="function-group">
-        <h2>Functions</h2>
-        <a href="function2.html"><img src="function2.png" alt="Function 2" /></a>
-        <a href="function4.html"><img src="function4.png" alt="Function 4" /></a>
-    </div>
-</body>
-</html>
+<!DOCTYPE html>\n<html lang="en">\n<head>\n    <meta charset="UTF-8">\n    <meta name="viewport" content="width=device-width, initial-scale=1.0">\n    <title>Employee Management</title>\n    <link rel="stylesheet" href="styles.css">\n</head>\n<body>\n    <header>\n        <h1>Employee Management System</h1>\n        <a href="index.html" class="home-button">Home</a>\n    </header>\n    <main>\n        <section class="group-1">\n            <h2>Group 1: Profile</h2>\n            <div class="card">\n                <a href="profile.html">\n                    <img src="profile.jpg" alt="Profile">\n                    <p>View Profile</p>\n                </a>\n            </div>\n        </section>\n        <section class="group-2">\n            <h2>Group 2: Work Management</h2>\n            <div class="card">\n                <a href="work1.html">\n                    <img src="work1.jpg" alt="Work Management 1">\n                    <p>Task Management</p>\n                </a>\n            </div>\n            <div class="card">\n                <a href="work2.html">\n                    <img src="work2.jpg" alt="Work Management 2">\n                    <p>Project Tracking</p>\n                </a>\n            </div>\n            <div class="card">\n                <a href="work3.html">\n                    <img src="work3.jpg" alt="Work Management 3">\n                    <p>Time Logging</p>\n                </a>\n            </div>\n        </section>\n    </main>\n    <footer>\n        <p>&copy; 2026 Employee Management System</p>\n    </footer>\n</body>\n</html>\n
+/* CSS styling to be included in a separate styles.css file */\nbody {\n    font-family: Arial, sans-serif;\n    margin: 0;\n    padding: 0;\n    background-color: #f4f4f4;\n} \nheader {\n    background: #35424a;\n    color: #ffffff;\n    padding: 10px 20px;\n    text-align: center;\n} \n.home-button {\n    color: #ffffff;\n    text-decoration: none;\n} \nmain {\n    max-width: 800px;\n    margin: 20px auto;\n    padding: 20px;\n    background: #ffffff;\n    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);\n} \nsection {\n    margin: 20px 0;\n} \n.card {\n    display: inline-block;\n    margin: 10px;\n    width: 150px;\n    text-align: center;\n    border-radius: 5px;\n    overflow: hidden;\n    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);\n} \n.card img {\n    width: 100%;\n    height: auto;\n} \n.card p {\n    background: #35424a;\n    color: #ffffff;\n    margin: 0;\n    padding: 10px;\n}
