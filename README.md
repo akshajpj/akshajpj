@@ -97,15 +97,24 @@ pipelines that ship real business value.
 
 **Languages**
 
-![Python](https://skillicons.dev/icons?i=python) ![JavaScript](https://skillicons.dev/icons?i=js) ![TypeScript](https://skillicons.dev/icons?i=ts) ![Java](https://skillicons.dev/icons?i=java) ![C++](https://skillicons.dev/icons?i=cpp) ![Go](https://skillicons.dev/icons?i=go)
+![Python](https://skillicons.dev/icons?i=python) 
+![JavaScript](https://skillicons.dev/icons?i=js) !```[TypeScript](https://skillicons.dev/icons?i=ts)```
+![Java](https://skillicons.dev/icons?i=java) !```[C++](https://skillicons.dev/icons?i=cpp) ![Go](https://skillicons.dev/icons?i=go)```
+![Django](https://skillicons.dev/icons?i=django)
 
 **Frontend**
 
-![React](https://skillicons.dev/icons?i=react) ![Next.js](https://skillicons.dev/icons?i=nextjs) ![Tailwind](https://skillicons.dev/icons?i=tailwind) ![Redux](https://skillicons.dev/icons?i=redux) ![HTML5](https://skillicons.dev/icons?i=html) ![CSS3](https://skillicons.dev/icons?i=css)
+```![React](https://skillicons.dev/icons?i=react) ![Next.js](https://skillicons.dev/icons?i=nextjs) ![Tailwind](https://skillicons.dev/icons?i=tailwind) ![Redux](https://skillicons.dev/icons?i=redux)```
+![HTML5](https://skillicons.dev/icons?i=html) ![CSS3](https://skillicons.dev/icons?i=css)
 
 **Backend & Databases**
 
-![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![Django](https://skillicons.dev/icons?i=django) ![FastAPI](https://skillicons.dev/icons?i=fastapi) ![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![Redis](https://skillicons.dev/icons?i=redis)
+```![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express)```
+![Django](https://skillicons.dev/icons?i=django) 
+![FastAPI](https://skillicons.dev/icons?i=fastapi) 
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+![MongoDB](https://skillicons.dev/icons?i=mongodb) 
+![Redis](https://skillicons.dev/icons?i=redis)
 
 ```
 **Cloud, DevOps & Tooling**
