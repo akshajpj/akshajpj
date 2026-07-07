@@ -97,7 +97,7 @@ pipelines that ship real business value.
 
 **Languages**
 
-![Python](https://skillicons.dev/icons?i=python) ![JavaScript](https://skillicons.dev/icons?i=js) !![Java](https://skillicons.dev/icons?i=java) !![Django](https://skillicons.dev/icons?i=django)
+![Python](https://skillicons.dev/icons?i=python) ![JavaScript](https://skillicons.dev/icons?i=js) ![Java](https://skillicons.dev/icons?i=java) ![Django](https://skillicons.dev/icons?i=django)
 
 **Frontend**
 
@@ -105,8 +105,7 @@ pipelines that ship real business value.
 
 **Backend & Databases**
 
-```![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express)```
-![Django](https://skillicons.dev/icons?i=django) ![FastAPI](https://skillicons.dev/icons?i=fastapi) ![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![Redis](https://skillicons.dev/icons?i=redis)
+![Django](https://skillicons.dev/icons?i=django) ![FastAPI](https://skillicons.dev/icons?i=fastapi) ![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![MongoDB](https://skillicons.dev/icons?i=mongodb)
 
 ```
 **Cloud, DevOps & Tooling**
