@@ -49,7 +49,7 @@
 
 <br/>
 
-![B.Sc](https://img.shields.io/badge/B.Tech-Computer%20Science-6D28D9?style=flat-square&logo=googlescholar&logoColor=white)
+![B.Sc](https://img.shields.io/badge/B.Sc-Computer%20Science-6D28D9?style=flat-square&logo=googlescholar&logoColor=white)
 ![Kerala, India](https://img.shields.io/badge/Location-Your%20City%2C%20Country-4C1D95?style=flat-square&logo=googlemaps&logoColor=white)
 
 <br/>
