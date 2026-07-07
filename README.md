@@ -49,15 +49,17 @@
 
 <br/>
 
-![B.Tech](https://img.shields.io/badge/B.Tech-Computer%20Science-6D28D9?style=flat-square&logo=googlescholar&logoColor=white)
-![Location](https://img.shields.io/badge/Location-Your%20City%2C%20Country-4C1D95?style=flat-square&logo=googlemaps&logoColor=white)
+![B.Sc](https://img.shields.io/badge/B.Tech-Computer%20Science-6D28D9?style=flat-square&logo=googlescholar&logoColor=white)
+![Kerala, India](https://img.shields.io/badge/Location-Your%20City%2C%20Country-4C1D95?style=flat-square&logo=googlemaps&logoColor=white)
 
 <br/>
 
+```
 [![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourhandle)
-[![Email](https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@example.com)
-[![GitHub](https://img.shields.io/badge/GitHub-1E1B4B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourhandle)
+```
+[![www.linkedIn.com/in/akshaj-p-j](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourhandle)
+[![akshajpj171@gmail.com](https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@example.com)
+[![www.github.com/akshajpj](https://img.shields.io/badge/GitHub-1E1B4B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourhandle)
 
 <br/>
 
@@ -105,10 +107,12 @@ pipelines that ship real business value.
 
 ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![Django](https://skillicons.dev/icons?i=django) ![FastAPI](https://skillicons.dev/icons?i=fastapi) ![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![Redis](https://skillicons.dev/icons?i=redis)
 
+```
 **Cloud, DevOps & Tooling**
 
 ![AWS](https://skillicons.dev/icons?i=aws) ![Docker](https://skillicons.dev/icons?i=docker) ![Kubernetes](https://skillicons.dev/icons?i=kubernetes) ![GCP](https://skillicons.dev/icons?i=gcp) ![Git](https://skillicons.dev/icons?i=git) ![GithubActions](https://skillicons.dev/icons?i=githubactions) ![Linux](https://skillicons.dev/icons?i=linux) ![Postman](https://skillicons.dev/icons?i=postman)
 
+```
 ---
 
 ## 🤖 AI / ML Expertise
@@ -131,7 +135,7 @@ pipelines that ship real business value.
 ## 🚀 Featured Projects
 
 <details>
-<summary><b>🔹 Project One — Intelligent Platform Engine</b></summary>
+<summary><b>🔹 Project 1 — File Manager with integrated Chatbot</b></summary>
 
 <br/>
 
@@ -139,16 +143,18 @@ A production-grade platform combining real-time data processing with an LLM-powe
 
 | Attribute | Detail |
 |---|---|
-| **Stack** | React, Node.js, PostgreSQL, Redis, OpenAI API |
+| **Stack** | HTML/CSS, Python Django, MySQL, OpenAI API |
 | **Scale** | 100K+ monthly active requests |
 | **Performance** | p95 latency under 200ms |
 | **Security** | JWT auth, RBAC, encrypted data at rest |
 | **Impact** | Reduced manual processing time by 70% |
-| **Repository** | [View Repo](https://github.com/yourhandle/project-one) |
+| **Repository** | [View Repo](https://github.com/akshajpj/AI-File-Manager) |
 
 Architected for horizontal scalability using a microservices approach, with an event-driven pipeline that decouples ingestion from processing. Includes full observability via structured logging and metrics dashboards.
 
 </details>
+
+```
 
 <details>
 <summary><b>🔹 Project Two — Distributed Analytics System</b></summary>
@@ -190,6 +196,8 @@ Built with a modular plugin architecture allowing custom model providers, along 
 
 </details>
 
+```
+
 ---
 
 ## 💼 Experience
@@ -225,7 +233,7 @@ Contributed to the development of internal tooling and customer-facing features 
 
 | Recognition | Details |
 |---|---|
-| 🥇 Hackathon Winner | 1st Place, National-Level AI Hackathon 2024 |
+| 🥇 Presentation Winner | 1st Place, AI FOR FUTURE event, NIT Calicut, 2025 |
 | 🌟 Open Source Contributor | 500+ contributions across active OSS repositories |
 | 📜 Published Research | Co-authored paper on applied NLP techniques |
 | 🎓 Academic Excellence | Top 5% of graduating class |
@@ -235,7 +243,7 @@ Contributed to the development of internal tooling and customer-facing features 
 ---
 
 ## 📜 Certifications
-
+```
 **AWS**
 
 ![AWS Certified Solutions Architect](https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
@@ -252,6 +260,8 @@ Contributed to the development of internal tooling and customer-facing features 
 **Cisco**
 
 ![Cisco](https://img.shields.io/badge/Cisco-Networking%20Basics-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+
+```
 
 ---
 
@@ -339,10 +349,10 @@ Open To:
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourhandle)
-[![GitHub](https://img.shields.io/badge/GitHub-1E1B4B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.dev)
+[![Gmail](https://img.shields.io/badge/Gmail-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](akshajpj171@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akshaj-p-j)
+[![GitHub](https://img.shields.io/badge/GitHub-1E1B4B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akshajpj)
+```[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.dev)```
 
 </div>
 
